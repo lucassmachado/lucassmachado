@@ -2,16 +2,16 @@
 
 My name is Lucas Machado, I'm a software developer with more than 7+ years of experience in software development. I'm always looking for the best practices, methods, and a better way to develop the software that I have the opportunity to build. I like to be challenged because I believe it can bring me growth in my career and life. In the last years, I had the pleasure to work with several technologies and varieties types of systems. Such as financial applications, call center, e-commerce, batches process, and chats. In all these applications I have used the following technologies:
 
-Java and Frameworks
+### Java and Frameworks
 - Java 5, 6, 7 e 8, Spring 2, 3 e 4 (DI, MVC, Security), JSF 1.x e 2.x, Primefaces, Richfaces, JPA, VRaptor, Apache Tiles, Apache Camel, Webservices SOAP e Restfull, JFreeChart, IReport, JasperReports, IText, JBoss, WebSphere, Tomcat, Jerry, JUnit, Mockito
 
-Web
+### Web
 - HTML, CSS, Javascript, AngulaJS 1.x, Angular 4, Bower, Gulp, JSON
 
-Databases
+### Databases
 - Oracle, MySQL, MongoDB, Redis, DB2
 
-Others
+### Others
 - Windows, Linux, Eclipse, VSCode, Docker, Jenkins, Git, Github, SVN, Starteam, Tortoise, Maven, SoapUI, Poster Mozilla, JVisual VM, Memory Analyser, Java Monitor 
 
 - 🌱 I’m currently learning more about microservices and cloud.
