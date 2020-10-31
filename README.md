@@ -14,7 +14,7 @@ My name is Lucas Machado, I'm a software developer with more than 7+ years of ex
 ### Others
 - Windows, Linux, Eclipse, VSCode, Docker, Jenkins, Git, Github, SVN, Starteam, Tortoise, Maven, SoapUI, Poster Mozilla, JVisual VM, Memory Analyser, Java Monitor 
 
-- 🌱 I’m currently learning more about microservices and cloud.
+🌱 I’m currently learning more about microservices and cloud.
 
 <!--
 **lucassmachado/lucassmachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
