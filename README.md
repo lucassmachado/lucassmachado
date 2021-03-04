@@ -16,6 +16,15 @@ My name is Lucas Machado, I'm a software developer with more than 7+ years of ex
 
 🌱 I’m currently learning more about microservices and cloud.
 
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=lucassmachado&show_icons=true" alt="lucassmachado"/> 
+</p>
+
+<p align="center">
+<a href="https://linkedin.com/in/lucassjmachado" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lucasmachado" height="20" width="20" /></a>
+<a href="https://stackoverflow.com/story/lucasmachado" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/stackoverflow.svg" alt="lucasmachado" height="20" width="20" /></a>
+</p>
+
 <!--
 **lucassmachado/lucassmachado** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
