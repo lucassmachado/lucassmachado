@@ -16,9 +16,12 @@ My name is Lucas Machado, I'm a software developer with more than 7+ years of ex
 
 🌱 I’m currently learning more about microservices and cloud.
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=lucassmachado&show_icons=true" alt="lucassmachado"/> 
-</p>
+### Estatísticas gerais
+[![Lucas github stats](https://github-readme-stats.vercel.app/api?username=lucassmachado)](https://github.com/lucassmachado/github-readme-stats)
+
+
+### 📈  Linguagens mais usadas 
+![languages](https://github-readme-stats.vercel.app/api/top-langs/?username=lucassmachado)
 
 <p align="center">
 <a href="https://linkedin.com/in/lucassjmachado" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="lucasmachado" height="20" width="20" /></a>
