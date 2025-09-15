@@ -1,6 +1,6 @@
 # 👋 Hi there! I'm Lucas Machado
 
-**Software Developer** with **13+ years of experience** building robust and scalable solutions.
+**Senior Software Developer** with **13+ years of experience** building robust and scalable solutions.
 
 ## 🚀 About Me
 
@@ -15,45 +15,58 @@ Throughout my career, I've had the opportunity to work on diverse projects, incl
 
 ## 🛠️ Tech Stack
 
-### ☕ Java & Frameworks
+### ☕ Java & Ecosystem
 ```
-Java 5-21 | Spring 2-4 (DI, MVC, Security) | Spring Boot 2.x-3.x | JSF 1.x-2.x
-Primefaces | Richfaces | JPA | VRaptor | Apache Tiles
-Apache Camel | SOAP & RESTful WebServices | JFreeChart
-JasperReports | IText | JBoss | WebSphere | Tomcat
-JUnit | Mockito
+Java 5-21 | Spring Framework 2-4 (DI, MVC, Security) | Spring Boot 2.x-3.x
+JSF 1.x-2.x | Primefaces | Richfaces | JPA | VRaptor | Apache Tiles
+Apache Camel | SOAP & RESTful WebServices | JFreeChart | JasperReports
+IText | JBoss | WebSphere | Tomcat | JUnit | Mockito
 ```
 
-### - Node 
+### 🟢 Node.js & JavaScript
 ```
-Node 14.x-20.x
-Express | NestJS
-Jest | Mocha
+Node.js 14.x-20.x | Express.js | NestJS
+Jest | Mocha | NPM | NVM
 ```
 
 ### 🌐 Frontend & Web
 ```
-HTML5 | CSS3 | JavaScript | AngularJS 1.x | Angular 2/4/9/18 | Angular Material | Bower | Gulp | JSON
+HTML5 | CSS3 | JavaScript | TypeScript
+AngularJS 1.x | Angular 2/4/9/18 | Angular Material
+Bower | Gulp | JSON
 ```
 
-### 🗄️ Databases
+### 🗄️ Databases & Storage
 ```
-Oracle | MySQL | MongoDB | Redis | DB2 | DBeaver
+Oracle | MySQL | MongoDB | Redis | DB2
+DBeaver
 ```
 
-### 🔧 Tools & Other Technologies
+### 🔧 DevOps & Tools
 ```
-Windows | WSL2 | Linux | IntelliJ | Eclipse | VSCode | Docker | Jenkins | GitHub Actions | Bamboo
-Git | GitHub | Bitbucket | SVN | StarTeam | Maven | NPM | NVM | SoapUI
-Oracle Cloud
-Dynatrace | JVisual VM | Memory Analyser | Java Monitor 
+Docker | Jenkins | GitHub Actions | Bamboo
+Git | GitHub | Bitbucket | SVN | StarTeam
+Maven | SoapUI | Oracle Cloud
+```
+
+### 💻 Development Environment
+```
+Windows | WSL2 | Linux
+IntelliJ IDEA | Eclipse | VS Code
+```
+
+### 📊 Monitoring & Performance
+```
+Dynatrace | JVisual VM | Memory Analyser | Java Monitor
 ```
 
 ## 🌱 Currently Learning
-- **Microservices** - Distributed and resilient architectures
-- **Cloud Computing** - Cloud solutions and DevOps practices
 
-## 📊 GitHub Stats
+- **Microservices Architecture** - Distributed and resilient systems
+- **Cloud Computing** - Advanced cloud solutions and DevOps practices
+- **Modern JavaScript/TypeScript** - Latest frontend technologies
+
+## 📈 GitHub Analytics
 
 <div align="center">
   
@@ -69,9 +82,16 @@ Dynatrace | JVisual VM | Memory Analyser | Java Monitor
   
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/lucassjmachado)
 [![Stack Overflow](https://img.shields.io/badge/Stack_Overflow-FE7A16?style=for-the-badge&logo=stack-overflow&logoColor=white)](https://stackoverflow.com/story/lucasmachado)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
 
 </div>
 
 ---
 
-💡 *"The best way to predict the future is to create it through code!"*
+<div align="center">
+
+### 💡 *"The best way to predict the future is to create it through code!"*
+
+⭐ **Open to new opportunities and exciting challenges!** ⭐
+
+</div>
