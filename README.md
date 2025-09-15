@@ -17,29 +17,36 @@ Throughout my career, I've had the opportunity to work on diverse projects, incl
 
 ### ☕ Java & Frameworks
 ```
-Java 5-8 | Spring 2-4 (DI, MVC, Security) | JSF 1.x-2.x
+Java 5-21 | Spring 2-4 (DI, MVC, Security) | Spring Boot 2.x-3.x | JSF 1.x-2.x
 Primefaces | Richfaces | JPA | VRaptor | Apache Tiles
 Apache Camel | SOAP & RESTful WebServices | JFreeChart
 JasperReports | IText | JBoss | WebSphere | Tomcat
 JUnit | Mockito
 ```
 
+### - Node 
+```
+Node 14.x-20.x
+Express | NestJS
+Jest | Mocha
+```
+
 ### 🌐 Frontend & Web
 ```
-HTML5 | CSS3 | JavaScript | AngularJS 1.x | Angular 4
-Bower | Gulp | JSON
+HTML5 | CSS3 | JavaScript | AngularJS 1.x | Angular 2/4/9/18 | Angular Material | Bower | Gulp | JSON
 ```
 
 ### 🗄️ Databases
 ```
-Oracle | MySQL | MongoDB | Redis | DB2
+Oracle | MySQL | MongoDB | Redis | DB2 | DBeaver
 ```
 
 ### 🔧 Tools & Other Technologies
 ```
-Windows | Linux | Eclipse | VSCode | Docker | Jenkins
-Git | GitHub | SVN | StarTeam | Maven | SoapUI
-JVisual VM | Memory Analyser | Java Monitor
+Windows | WSL2 | Linux | IntelliJ | Eclipse | VSCode | Docker | Jenkins | GitHub Actions | Bamboo
+Git | GitHub | Bitbucket | SVN | StarTeam | Maven | NPM | NVM | SoapUI
+Oracle Cloud
+Dynatrace | JVisual VM | Memory Analyser | Java Monitor 
 ```
 
 ## 🌱 Currently Learning
